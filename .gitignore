@@ -1,0 +1,6 @@
+# for sphinx
+EXPERIMENTS
+build/doctrees/
+build/html/
+#
+.idea/
