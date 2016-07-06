@@ -23,16 +23,16 @@ The Mitel 5000 allows for VM to e-mail and user programmable call-forwarding.
 
 If you have inadvertently deleted a voice mail or a phone interview recording, these are the steps to recover the deleted message:
 
-Press the Messages button
+- Press the Messages button
 
-Enter your Voice mail password, then press Pound
+- Enter your Voice mail password, then press Pound
 
-Choose 5 Message Options
+- Choose 5 Message Options
 
-    Choose 2 Recover Deleted Messages
+  - Choose 2 Recover Deleted Messages
 
-        Choose 1 to Listen to Deleted Message
+    - Choose 1 to Listen to Deleted Message
 
-            or
+      - or
 
-        Choose 2 to Recover Deleted Message
+    - Choose 2 to Recover Deleted Message

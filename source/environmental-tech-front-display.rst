@@ -1,4 +1,4 @@
-Camous Tech:: Front Kiosk
+Campus Tech:: Front Kiosk
 =========================
 
 The Front Reception Kiosk was acquired late 2015.

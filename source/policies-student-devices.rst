@@ -3,7 +3,7 @@ Policies:: Student Devices
 
 In general, no student devices are allowed on campus.
 
-The only current exception to this rule is Kindles.
+The only current exception to this rule is Kindles for Reading Workshops ( student Kindles are not allowed on the SGS Wireless Networks ).
 
 This policy evolves out of many factors, predominately:
 

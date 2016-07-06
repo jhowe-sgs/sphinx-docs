@@ -87,6 +87,8 @@ Contents:
    provisioning-deploy-studio
    provisioning-munki
    provisioning-admin-arsenal
+   procedures-create-user
+   procedures-retire-user
    policies
    policies-students
    policies-student-devices
